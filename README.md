@@ -1,4 +1,4 @@
 
 # Desarrollo de Software
 ## Ejercicio N° 8
-- 57812, Eduardo Nicolás Martinez
+- 57812, Eduardo Nicolas Martinez
